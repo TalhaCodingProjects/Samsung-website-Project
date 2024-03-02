@@ -1,0 +1,30 @@
+.logo_4{
+    /* background-image: url("") no-repeat ; */
+    background-color: rgb(218, 218, 218);
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+
+.foot-panel4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0f1111;
+    color: white;
+    font-size: 0.7rem;
+    text-align: center;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+height: 80px;
+}
+
+.pages{
+    padding-top: 25px;
+}
+
+.copyright{
+    padding-top: 5px;
+
+}
