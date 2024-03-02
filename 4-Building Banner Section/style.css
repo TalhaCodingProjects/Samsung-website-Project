@@ -1,0 +1,98 @@
+/* Main_3 */
+.main_3 {
+    background: url("https://images.deccanherald.com/deccanherald/import/sites/dh/files/articleimages/2021/07/25/appliances-istock-1012773-1627232916.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true") no-repeat center center/cover;
+    width: 100%;
+    /* height: 170%; */
+}
+
+.heading_2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+}
+
+.heading_2 h1 {
+    color: white;
+    margin-top: 38px;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.3rem;
+}
+
+.check {
+    display: flex;
+    justify-content: center;
+}
+
+.check ul {
+    display: flex;
+    margin-top: 18px;
+    white-space: 22px;
+}
+
+.check ul li {
+    color: white;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    transition-property: color;
+    transition-duration: 1s;
+}
+
+
+.check ul li:first-child {
+    text-decoration: underline;
+    padding-left: -72px;
+}
+
+.check ul li:hover {
+    color: rgb(202, 192, 192);
+    cursor: pointer;
+}
+
+.end_1 {
+    margin-top: 34rem;
+    padding-left: 33rem;
+}
+
+.heading_3 {
+    margin-left: 12px;
+}
+
+.end_1 button {
+    font-family: sans-serif;
+    padding: 9px 177px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    background-color: black;
+    transition-property: background-color;
+    transition-duration: 2s;
+    margin-top: 12px;
+    margin-bottom: 7px;
+}
+
+.end_1 button:hover {
+    background-color: rgb(161, 155, 155);
+    cursor: pointer;
+}
+
+.heading_3 h1 {
+    font-size: 3.4rem;
+    font-family: sans-serif;
+    color: white;
+}
+
+.Go {
+    margin-left: 20px;
+}
+
+.Heading_1{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    margin-top: 40px;
+    font-size: 2.4rem;
+    font-weight: 600;
+}
