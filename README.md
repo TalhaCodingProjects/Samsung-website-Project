@@ -1,3 +1,3 @@
-Talha malik
+This is the project of Samsung website.
 <br>
-maik
+Access the code for development
